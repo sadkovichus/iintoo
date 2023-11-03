@@ -246,8 +246,8 @@ input[type='checkbox'] {
     opacity: 1;
 }
 
-.wrapper-container-right__investors li:nth-last-child(1) .info,
-.wrapper-container-right__investors li:nth-last-child(2) .info{
+.wrapper-container-right__investors li:nth-last-child(1) .wrapper-container-right-investors-investor__info,
+.wrapper-container-right__investors li:nth-last-child(2) .wrapper-container-right-investors-investor__info{
     right: 0;
     left: auto;
 }
