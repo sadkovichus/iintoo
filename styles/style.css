@@ -99,7 +99,7 @@ body {
     left: 15px
 }
 
-.rapper-container-right__interval {
+.wrapper-container-right__interval {
     display: flex;
     gap: 5px;
     align-items: center;
@@ -113,7 +113,7 @@ body {
     font-weight: 600;
 }
 
-.rapper-container-right__interval span {
+.wrapper-container-right__interval span {
     position: relative;
     top: 1px;
     flex: 1;
