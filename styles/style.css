@@ -75,12 +75,28 @@ body {
 }
 
 .fb {
+    position: relative;
     background-color: #255A9B;
-
 }
 
+
 .in {
+    position: relative;
     background-color: #0076B6 ;
+}
+
+.in span,
+.fb span {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    translate: 0 -50%;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.fb span {
+    left: 15px
 }
 
 .interval {
