@@ -293,13 +293,3 @@ input[type='checkbox'] {
 
 
 /* Media query */
-
-@media (max-width: 1000px) {
-    .wrapper {
-        overflow: auto;
-        align-items: start;
-    }
-    .wrapper__container {
-        flex-direction: column;
-    }
-}
