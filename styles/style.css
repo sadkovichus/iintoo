@@ -290,3 +290,16 @@ input[type='checkbox'] {
     font-weight: 500;
     color: white;
 }
+
+
+/* Media query */
+
+@media (max-width: 1000px) {
+    .wrapper {
+        overflow: auto;
+        align-items: start;
+    }
+    .wrapper__container {
+        flex-direction: column;
+    }
+}
